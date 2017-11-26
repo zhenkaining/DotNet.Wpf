@@ -1,0 +1,12 @@
+D:\GitHub\DotNet.Wpf\CandyWpf\DistrictDataCrawler\bin\Debug\DistrictDataCrawler.exe
+D:\GitHub\DotNet.Wpf\CandyWpf\DistrictDataCrawler\bin\Debug\DistrictDataCrawler.pdb
+D:\GitHub\DotNet.Wpf\CandyWpf\DistrictDataCrawler\bin\Debug\HtmlAgilityPack.dll
+D:\GitHub\DotNet.Wpf\CandyWpf\DistrictDataCrawler\bin\Debug\Newtonsoft.Json.dll
+D:\GitHub\DotNet.Wpf\CandyWpf\DistrictDataCrawler\bin\Debug\HtmlAgilityPack.pdb
+D:\GitHub\DotNet.Wpf\CandyWpf\DistrictDataCrawler\bin\Debug\HtmlAgilityPack.xml
+D:\GitHub\DotNet.Wpf\CandyWpf\DistrictDataCrawler\bin\Debug\Newtonsoft.Json.xml
+D:\GitHub\DotNet.Wpf\CandyWpf\DistrictDataCrawler\obj\Debug\DistrictDataCrawler.csprojResolveAssemblyReference.cache
+D:\GitHub\DotNet.Wpf\CandyWpf\DistrictDataCrawler\obj\Debug\DistrictDataCrawler.exe
+D:\GitHub\DotNet.Wpf\CandyWpf\DistrictDataCrawler\obj\Debug\DistrictDataCrawler.pdb
+D:\GitHub\DotNet.Wpf\CandyWpf\DistrictDataCrawler\bin\Debug\Pinyin4net.dll
+D:\GitHub\DotNet.Wpf\CandyWpf\DistrictDataCrawler\bin\Debug\Pinyin4net.pdb

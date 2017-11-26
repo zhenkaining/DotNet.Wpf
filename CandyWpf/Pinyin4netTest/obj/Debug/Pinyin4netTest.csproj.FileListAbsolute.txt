@@ -1,0 +1,11 @@
+D:\GitHub\DotNet.Wpf\CandyWpf\Pinyin4netTest\bin\Debug\Pinyin4netTest.dll
+D:\GitHub\DotNet.Wpf\CandyWpf\Pinyin4netTest\bin\Debug\Pinyin4netTest.pdb
+D:\GitHub\DotNet.Wpf\CandyWpf\Pinyin4netTest\bin\Debug\nunit.framework.dll
+D:\GitHub\DotNet.Wpf\CandyWpf\Pinyin4netTest\bin\Debug\nunit.mocks.dll
+D:\GitHub\DotNet.Wpf\CandyWpf\Pinyin4netTest\bin\Debug\Pinyin4net.dll
+D:\GitHub\DotNet.Wpf\CandyWpf\Pinyin4netTest\bin\Debug\pnunit.framework.dll
+D:\GitHub\DotNet.Wpf\CandyWpf\Pinyin4netTest\bin\Debug\Pinyin4net.pdb
+D:\GitHub\DotNet.Wpf\CandyWpf\Pinyin4netTest\bin\Debug\nunit.framework.xml
+D:\GitHub\DotNet.Wpf\CandyWpf\Pinyin4netTest\obj\Debug\Pinyin4netTest.csprojResolveAssemblyReference.cache
+D:\GitHub\DotNet.Wpf\CandyWpf\Pinyin4netTest\obj\Debug\Pinyin4netTest.dll
+D:\GitHub\DotNet.Wpf\CandyWpf\Pinyin4netTest\obj\Debug\Pinyin4netTest.pdb
